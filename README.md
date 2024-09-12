@@ -51,23 +51,14 @@ When the project is cloned, the typical folder structure will look like this:
 link-shortener-extractor/
 
 │
-
 ├── venv/ (if virtual environment is set up)
-
 │
-
 ├── link_shortener_extractor.py (Main Python script)
-
 │
-
 ├── README.md (Project documentation)
-
 │
-
 ├── requirements.txt (optional, can be added for dependency management)
-
 │
-
 └── .gitignore (optional, for ignoring unnecessary files)
 
 ### Setting up requirements.txt (Optional)
