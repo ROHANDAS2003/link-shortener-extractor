@@ -5,7 +5,7 @@
     - Navigate to the directory where you want to clone the project.
     - Use the following command to clone the project from GitHub:
 
-git clone <https://github.com/your-username/link-shortener-extractor.git>
+git clone <https://github.com/ROHANDAS2003/link-shortener-extractor>
 
 (Replace your-username with your actual GitHub username and link-shortener-extractor with the repository name if different.)
 
@@ -102,7 +102,7 @@ This will start the script, prompting the user to choose between shortening a li
 
 1. Clone the repository:
 
-git clone <https://github.com/your-username/link-shortener-extractor.git>
+git clone <https://github.com/ROHANDAS2003/link-shortener-extractor>
 
 1. Navigate to the project directory:
 
